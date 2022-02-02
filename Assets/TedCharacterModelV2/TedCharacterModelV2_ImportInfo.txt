@@ -1,0 +1,8 @@
+logType=HighQuality
+generation=G3Plus
+isLOD=false
+qualRefractiveEyes=true
+dualMaterialHair=true
+bakeIsBaked=false
+bakeCustomShaders=true
+bakeSeparatePrefab=true
