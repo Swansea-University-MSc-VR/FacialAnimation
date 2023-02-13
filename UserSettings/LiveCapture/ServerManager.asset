@@ -27,7 +27,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Expanded: 1
-  m_InterfacesExpanded: 0
+  m_InterfacesExpanded: 1
   m_ClientsExpanded: 1
   m_Port: 9000
-  m_AutoStartOnPlay: 0
+  m_AutoStartOnPlay: 1
